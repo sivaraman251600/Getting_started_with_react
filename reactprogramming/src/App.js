@@ -2,6 +2,7 @@ import './App.css';
 import Supplier from './components/FirstAssignment';
 import ExerciseTwo from './components/secondAssignment';
 import ReceipeTitle from './components/thirdAssignment';
+import RouterExample from './components/fourthAssignment';
 
 function App() {
   return (
@@ -12,6 +13,8 @@ function App() {
      <ExerciseTwo />
      <hr/>
      <ReceipeTitle />
+     <hr/>
+     <RouterExample />
     </div>
   );
 }
